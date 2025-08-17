@@ -22,7 +22,7 @@ This is a prototype chatbot application built using Streamlit and OpenAI's API. 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AbeTavarez/deepseek-chatbot.git
+    git clone https://github.com/bigman1208000/deepseek-chatbot.git
     cd deepseek-chatbot
     ```
 
